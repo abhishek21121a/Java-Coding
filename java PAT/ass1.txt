@@ -1,0 +1,16 @@
+
+ 1.write a program that takes string as input from the user and 
+ deletes all the vowels from the string.
+
+ 2.write a program that takes input from the user and 
+ splits the string where ever it finds a white space.
+ 
+ 3.write a program that takes input from the user a 
+ string as input from the user and prints all the charecters as sorted manner.
+ 
+ 4.write a program that takes 
+ a set of words from the user and sort them lexicographically(dicotonary)
+
+
+ leet code problem no. 35,268,69,704,1346,367   searching problems
+ 
